@@ -12,6 +12,10 @@ Monitoring data arrive one inspection at a time. A server-side PIMA model turns 
 
 ## Demo video
 
+https://github.com/user-attachments/assets/e5fbab52-cfdf-4c61-984e-0663ca1b9390
+
+
+
 [![Demo of the online prognostic system: click to play](assets/demo_preview.jpg)](assets/demo.mp4)
 
 *Click the image to open the video (27 s). A held-out device is replayed inspection by inspection; the RUL estimate, its intervals and the physical degradation state update after every inspection.*
